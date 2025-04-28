@@ -2,7 +2,7 @@
 
 FitTrack is a modern web application built with React and TypeScript that helps you manage and track your gym workouts effectively. Create custom routines, log your progress, and visualize your fitness journey through detailed statistics.
 
-![FitTrack Dashboard](https://images.pexels.com/photos/4498151/pexels-photo-4498151.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![FitTrack Dashboard]
 
 ## Features
 
